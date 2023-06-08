@@ -1,4 +1,4 @@
-# CysDB: Cysteineome Database
+# CysDB: Cysteinome Database
 
 Integrating chemoproteomics, protein structures, and functional annotations to understand the role of cysteines in the human proteome.
 
